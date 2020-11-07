@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 group-title="",咪咕 4K
-https://pull.hotsoo.com/live/streamcnhd3992.m3u8
+http://221.179.217.9/PLTV/88888888/224/3221226300/1.m3u8
 #EXTINF:-1 group-title="",咪咕4K
 http://221.179.217.9/PLTV/88888888/224/3221226400/1.m3u8
 #EXTINF:-1 group-title="",北京IPTV4K超清
