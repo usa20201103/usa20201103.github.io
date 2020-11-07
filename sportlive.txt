@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="",µÂÒÒ > ººÅµÍş96vs°Â¶òÊÓÆµÖ±²¥
+https://pull.hotsoo.com/live/streamhd5816.m3u8
