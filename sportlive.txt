@@ -1,2 +1,3 @@
-﻿#WXPLAYERMOVIE
+﻿#wxplayermovie
+足球直播,https://usa20201103.github.io/sportlive.txt
 足球直播,https://pull.hotsoo.com/live/streamcnhd3992.m3u8
