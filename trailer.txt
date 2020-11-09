@@ -1,5 +1,2 @@
-﻿#EXTM3U
-#EXTINF:-1 group-title="",金刚川
-https://vod.pipi.cn/fec9203cvodtransbj1251246104/fccd3c2c5285890808939408001/v.f42906.mp4
-#EXTINF:-1 group-title="",风平浪静
-https://vod.pipi.cn/fec9203cvodtransbj1251246104/7ddfeb545285890809279218660/v.f42906.mp4
+﻿>金刚川$https://vod.pipi.cn/fec9203cvodtransbj1251246104/fccd3c2c5285890808939408001/v.f42906.mp4
+>风平浪静$https://vod.pipi.cn/fec9203cvodtransbj1251246104/7ddfeb545285890809279218660/v.f42906.mp4
