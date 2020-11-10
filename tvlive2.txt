@@ -1,3 +1,3 @@
 #CUSTOMMOVIE
-kk,https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3305512319,3842716905&fm=26&gp=0.jpg
-url,http://ivi.bupt.edu.cn/
+kk,https://pic.qqtn.com/up/2018-4/2018411143818144.jpg
+url,http://ivi.bupt.edu.cn
