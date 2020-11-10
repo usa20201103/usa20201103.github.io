@@ -1,2 +1,4 @@
-﻿>金刚川$https://vod.pipi.cn/fec9203cvodtransbj1251246104/fccd3c2c5285890808939408001/v.f42906.mp4?.m3u8
->风平浪静$https://vod.pipi.cn/fec9203cvodtransbj1251246104/7ddfeb545285890809279218660/v.f42906.mp4?.m3u8
+﻿##CUSTOMMOVIE
+院线大片,https://p1.meituan.net/moviemachine/5cbf9a626b7ed27c96ca3c748655b3ec2550103.jpg
+金刚川，https://vod.pipi.cn/fec9203cvodtransbj1251246104/fccd3c2c5285890808939408001/v.f42906.mp4?.m3u8
+风平浪静，https://vod.pipi.cn/fec9203cvodtransbj1251246104/7ddfeb545285890809279218660/v.f42906.mp4?.m3u8
