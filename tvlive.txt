@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 group-title="",咪咕 4K
-http://221.179.217.9/PLTV/88888888/224/3221226300/1.m3u8
+http://pull.ymq01.com/liveb/337634929489752065/playlist.m3u8?wsSecret=21d0c503802051a1c9a388cc3afb71a4&wsABSTime=5fc28918
 #EXTINF:-1 group-title="",咪咕4K
 http://221.179.217.9/PLTV/88888888/224/3221226400/1.m3u8
 #EXTINF:-1 group-title="",北京IPTV4K超清
