@@ -1,3 +1,3 @@
 ﻿#wxplayermovie
 足球直播,https://usa20201103.github.io/sportlive.txt
->足球直播$https://pull.hotsoo.com/live/streamcnhd3992.m3u8
+>足球直播$http://pull.ymq01.com/liveb/337634929489752065/playlist.m3u8?wsSecret=21d0c503802051a1c9a388cc3afb71a4&wsABSTime=5fc28918
