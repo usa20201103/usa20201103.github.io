@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 group-title="",咪咕 4K
-http://pull.ymq01.com/liveb/337634929489752065/playlist.m3u8?wsSecret=21d0c503802051a1c9a388cc3afb71a4&wsABSTime=5fc28918
+http://livehls.bdxhj.com/ofmatch/HD496959_720.m3u8?auth_key=1606653771-6f42c63f5f6da0ac0ddde46deeb118fb-0-0f22c5ac0e0dfecef25629b84df785c8
 #EXTINF:-1 group-title="",咪咕4K
 http://221.179.217.9/PLTV/88888888/224/3221226400/1.m3u8
 #EXTINF:-1 group-title="",北京IPTV4K超清
