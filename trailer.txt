@@ -1,6 +1,3 @@
 ﻿#CUSTOMMOVIE
-院线大片,http://t.cn/A6Gjf4T4?.jpg
-金刚川，https://vod.pipi.cn/fec9203cvodtransbj1251246104/fccd3c2c5285890808939408001/v.f42906.mp4?.m3u8
-风平浪静，https://vod.pipi.cn/fec9203cvodtransbj1251246104/7ddfeb545285890809279218660/v.f42906.mp4?.m3u8
-p，http://livecnb.ali.huoxinglaike.com/live/PPTVtiyu_sudong.m3u8?auth_key=1611491447-0-0-2e0b3960c70276f42f3eaf00cd0b6d35
-12，https://bf.001vg.com/live/jingjingc.m3u8
+2021澳网，https://inews.gtimg.com/newsapp_bt/0/13180048850/1000
+德约科维奇Vs卡拉采夫，http://livehls.bdxhj.com/ofmatch/HD575546_720.m3u8?auth_key=1613637805-ce9eb75fa6473b3a9cb7794ba4e33077-0-b7b94c89a2081aab99f23d4b1505f595
