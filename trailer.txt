@@ -1,3 +1,3 @@
 ﻿#CUSTOMMOVIE
 2021澳网，https://inews.gtimg.com/newsapp_bt/0/13180048850/1000
-德约科维奇Vs卡拉采夫，http://livehls.bdxhj.com/ofmatch/HD575546_720.m3u8?auth_key=1613640605-eb0d3e7f81755d80273361afef09ff4e-0-23a8d7c48daba38f85d4174dd3a05b36
+德约科维奇Vs卡拉采夫，http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
