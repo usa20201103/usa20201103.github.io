@@ -7,8 +7,9 @@ tags: [地址, 下载]
 categories: rest
 ---
 ### 软件下载
-    地址：
-    [下载](http://48y.cn/download/48ycn.apk)
+ 地址：[下载](https://wwa.lanzous.com/i5NSQlt28je)
+
+
 
 下载二维码：
     ![下载二维码：](/images/download%20.png "下载二维码")
@@ -23,5 +24,5 @@ categories: rest
   ![](/images/now_down_1.png "下载")
 
 3. 第3步：在打开的网页中的点击“下载”
-4. 
+
    ![](/images/now_down_2.png "下载")
