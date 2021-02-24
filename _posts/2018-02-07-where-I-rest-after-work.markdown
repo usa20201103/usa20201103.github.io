@@ -10,7 +10,7 @@ categories: rest
 
 ## 安装视频演示：
 
-<video id="video" controls="" preload="none" poster="/images/player128.png">
+<video id="video" controls="" preload="none" poster="/images/now_down6.png">
       <source id="mp4" src="http://48y.cn/images/down_demo.mp4" type="video/mp4">
       </video>
 
