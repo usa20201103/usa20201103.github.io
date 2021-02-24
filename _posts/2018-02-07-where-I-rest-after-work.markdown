@@ -21,8 +21,12 @@ categories: rest
 
 2. 第2步：在打开的网页中的点击“立即下载”
 
-  ![](/images/now_down_1.png "下载")
+![图片](/images/now_down_1.png "下载")
 
 3. 第3步：在打开的网页中的点击“下载”
 
-   ![](/images/now_down_2.png "下载")
+![图片](/images/now_down_2.png "下载")
+
+4. 第4步：在选择浏览器打开后，再次点击“下载”，
+
+![图片](/images/now_down_3.png "下载")
