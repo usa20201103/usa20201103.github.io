@@ -8,7 +8,7 @@ categories: rest
 ---
 ### 软件下载
     地址：
-   [下载](https://wwa.lanzous.com/i5NSQlt28je)
+    [下载](/download/48ycn.apk)
 
 下载二维码：
     ![下载二维码：](/images/download%20.png "下载二维码")
