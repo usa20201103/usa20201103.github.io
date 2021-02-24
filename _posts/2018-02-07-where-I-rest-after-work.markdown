@@ -26,3 +26,15 @@ categories: rest
 ## 第4步：在选择浏览器打开后，再次点击“下载”
 
 ![图片](/images/now_down_3.png "下载")
+
+## 第5步：等待下载完成后，点击“允许”
+
+![图片](/images/now_down_4.png "允许")
+
+## 第6步：点击“继续安装”
+
+![图片](/images/now_down_5.png "继续安装")
+
+## 第7步：安装完成后，点击“打开”，开始使用APP
+
+![图片](/images/now_down_6.png "打开")
