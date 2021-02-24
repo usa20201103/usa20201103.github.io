@@ -1,15 +1,15 @@
-title: Welcome to Flexton
-description: Flexton is a responsive and ultra-minimal theme for Jekyll.
+title: 无限播放
+description: 可以播放m3u8,m3u,dpl,flv等视频文件.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    Clayton Hanson
-author-image:   1.jpg
-author-job:     Web Developer
-author-email:   your-email@domain.com # Add your email for contant form.
-author-twitter: artemsheludko_ # Add your twitter account
-about-author:   I am a web developer focusing on front-end development. Always hungry to keep learning.
+author-name:    无限播放APP
+author-image:   player128.png
+author-job:     wxplayer
+author-email:   wxplayer@gmail.com # Add your email for contant form.
+author-twitter: wxplayer # Add your twitter account
+about-author:   可以播放m3u8,m3u,dpl,flv等视频文件.
 
 # Social settings
 social-twitter:   artemsheludko_
