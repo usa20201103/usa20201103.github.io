@@ -8,17 +8,23 @@ categories: rest
 ---
 # 下载安装方法
 
+## 安装视频演示：
+
+<video id="video" controls="" preload="none" poster="/images/player128.png">
+      <source id="mp4" src="http://48y.cn/download/down_demo.mp4" type="video/mp4">
+      </video>
+
 ## 第1步：点击[下载](https://wwa.lanzous.com/i5NSQlt28je)，或用手机浏览器软件扫描二维码
 
 ![下载二维码：](/images/download%20.png "下载二维码")
 
 
-## 第2步：在打开的网页中的点击“立即下载”
+## 第2步：在打开的网页中点击“立即下载”
 
 ![图片](/images/now_down_1.png "下载")
 
 
-## 第3步：在打开的网页中的点击“下载”
+## 第3步：在打开的网页中点击“下载”
 
 ![图片](/images/now_down_2.png "下载")
 
