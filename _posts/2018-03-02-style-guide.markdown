@@ -6,7 +6,7 @@ date: 2021-03-02 13:35:20 +0200
 tags:
 categories: guide
 ---
-无限播放app
+#无限播放app
 
 功能：1、可以播放视频文件，m3u,dpl等文件；
 
