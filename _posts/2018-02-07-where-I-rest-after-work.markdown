@@ -8,7 +8,7 @@ categories: rest
 ---
 # 下载安装方法：
 
-## 第1步：点击上方的[下载](https://wwa.lanzous.com/i5NSQlt28je)，或扫描二维码
+## 第1步：点击[下载](https://wwa.lanzous.com/i5NSQlt28je)，或扫描二维码
 ![下载二维码：](/images/download%20.png "下载二维码")
 ## 第2步：在打开的网页中的点击“立即下载”
 
