@@ -4,7 +4,7 @@ title: 如何获取浏览的网址?
 image: 9.jpg
 date: 2018-02-07 17:50:18 +0200
 tags: [网址, 浏览]
-categories: 使用
+categories: productivity
 ---
 ## 方法一
 
