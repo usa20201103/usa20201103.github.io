@@ -19,7 +19,7 @@ categories: productivity
 ## 搜索站点
 
 1.输入网址，可以是包含多个网址的网页地址。
-[如何获取网址](_posts/2018-02-07-how-to-be-productive)
+[如何获取网址](/_posts/2018-02-07-how-to-be-productive)
 
 2.点击“搜索”。
 
