@@ -1,31 +1,49 @@
 ---
 layout: post
-title: The best way to decorate your desktop
+title: 零成本，一分钟拥有你的影视APP
 image: 10.jpg
-date: 2018-02-06 10:05:20 +0200
+date: 2021-02-06 10:05:20 +0200
 tags: [workflow, decoration]
 categories: decoration
 ---
-Intelligentsia mixtape gastropub, mlkshk deep v plaid flexitarian vice. Succulents keytar craft beer shabby chic. Fam schlitz try-hard, quinoa occupy DIY vexillologist blue bottle cloud bread stumptown whatever. Sustainable cloud bread beard fanny pack vexillologist health goth.
-Synth truffaut schlitz aesthetic, palo santo chambray flexitarian tumblr vexillologist pop-up gluten-free sustainable fixie shaman. Pug polaroid tumeric plaid sartorial fashion axe chia lyft glossier kitsch scenester pinterest kale chips. Blog etsy umami fashion axe shoreditch. Prism chambray heirloom, drinking vinegar portland paleo slow-carb. Waistcoat palo santo humblebrag biodiesel cornhole pinterest selvage neutra tacos semiotics edison bulb. Flexitarian brunch plaid activated charcoal sustainable selvage tbh prism pok pok bespoke cardigan readymade thundercats. Butcher fashion axe squid selvage master cleanse vinyl schlitz skateboard. Lomo shaman man bun keffiyeh asymmetrical listicle. Kickstarter trust fund fanny pack post-ironic wayfarers swag kitsch. Shaman pug kale chips meh squid.
+无限播放APP可以实现零成本，一分钟拥有你的影视APP。
 
-Slow-carb mustache meggings pok pok. Listicle farm-to-table hot chicken, fanny pack hexagon green juice subway tile plaid pork belly taiyaki. Typewriter mustache letterpress, iceland cloud bread williamsburg meditation. Four dollar toast tumblr farm-to-table air plant hashtag letterpress green juice tattooed polaroid hammock sriracha brunch kogi. Thundercats swag pop-up vaporware irony selvage PBR&B 3 wolf moon asymmetrical cornhole venmo hexagon succulents.
+## 一、功能介绍
 
-> Tumeric biodiesel ramps stumptown disrupt swag synth, street art franzen air plant lomo. Everyday carry pinterest next level, williamsburg wayfarers pop-up gochujang distillery PBR&B woke bitters.
+1、可以播放视频文件，m3u,dpl等文件；
 
-Literally succulents chambray pok pok, tbh subway tile bicycle rights selvage cray gastropub pitchfork semiotics readymade organic.Vape flexitarian tumblr raclette organic direct trade. Tacos green juice migas shabby chic, tilde fixie tousled plaid kombucha. +1 retro scenester, kogi cray portland etsy 8-bit locavore blue bottle master cleanse tofu. PBR&B adaptogen chartreuse knausgaard palo santo intelligentsia.
+​2、可以浏览开源m3u8影视采集网站和影视网站；
 
-Migas cliche before they sold out cronut distillery hella, scenester cardigan kinfolk cornhole microdosing disrupt forage lyft green juice. Tofu deep v food truck live-edge edison bulb vice. Biodiesel tilde leggings tousled cliche next level gastropub cold-pressed man braid. Lyft humblebrag squid viral, vegan chicharrones vice kinfolk. Enamel pin ethical tacos normcore fixie hella adaptogen jianbing shoreditch wayfarers. Lyft poke offal pug keffiyeh dreamcatcher seitan biodiesel stumptown church-key viral waistcoat put a bird on it farm-to-table. Meggings pitchfork master cleanse pickled venmo. Squid ennui blog hot chicken, vaporware post-ironic banjo master cleanse heirloom vape glossier. Lo-fi keffiyeh drinking vinegar, knausgaard cold-pressed listicle schlitz af celiac fixie lomo cardigan hella echo park blog. Hell of humblebrag quinoa actually photo booth thundercats, hella la croix af before they sold out cold-pressed vice adaptogen beard.
+3、可以投屏;
 
-##### Hammock
-1. Hammock deep v everyday carry intelligentsia hell of helvetica.
-2. Occupy affogato pop-up bicycle rights paleo.
-3. Direct trade selvage trust fund.
-4. Cold-pressed kombucha yuccie kickstarter semiotics church-key kogi gochujang poke.
-5. Single-origin coffee hella activated charcoal subway tile asymmetrical.
+​4、可以下载。
 
-Adaptogen normcore wayfarers pickled lomo. Ethical edison bulb shaman wayfarers cold-pressed woke. Helvetica selfies blue bottle deep v. Banjo shabby chic bespoke meh, glossier hoodie mixtape food truck tumblr sustainable. Drinking vinegar meditation hammock taiyaki etsy tacos tofu banjo sustainable.
+## 二、如何实现将视频网站变成视频APP?
 
-Farm-to-table bespoke edison bulb, vinyl hell of cred taiyaki squid biodiesel la croix leggings drinking vinegar hot chicken live-edge. Waistcoat succulents fixie neutra chartreuse sriracha, craft beer yuccie. Ugh trust fund messenger bag, semiotics tacos post-ironic meditation banjo pinterest disrupt sartorial tofu. Meh health goth art party retro skateboard, pug vaporware shaman. Meh whatever microdosing cornhole. Hella salvia pinterest four loko shabby chic yr. Farm-to-table yr fanny pack synth street art, gastropub squid kogi asymmetrical sartorial disrupt semiotics. Kombucha copper mug vice sriracha +1. Tacos hashtag PBR&B taiyaki franzen cornhole. Trust fund authentic farm-to-table marfa palo santo cold-pressed neutra 90’s. VHS artisan drinking vinegar readymade yr. Bushwick tote bag health goth keytar try-hard you probably haven’t heard of them godard pug waistcoat. Kogi iPhone banh mi, green juice live-edge chartreuse XOXO tote bag godard selvage retro readymade austin. Leggings ramps tacos iceland raw denim semiotics woke hell of lomo. Brooklyn woke adaptogen normcore pitchfork skateboard.
+第1步：下载安装无限播放app，48y.cn。
 
-Intelligentsia mixtape gastropub, mlkshk deep v plaid flexitarian vice. Succulents keytar craft beer shabby chic. Fam schlitz try-hard, quinoa occupy DIY vexillologist blue bottle cloud bread stumptown whatever. Sustainable cloud bread beard fanny pack vexillologist health goth. Schlitz artisan raw denim, art party gastropub vexillologist actually whatever tumblr skateboard tousled irony cray chillwave gluten-free. Whatever hexagon YOLO cred man braid paleo waistcoat asymmetrical slow-carb authentic. Fam enamel pin cornhole, scenester cray stumptown readymade bespoke four loko mustache keffiyeh mixtape.
+第2步：获得视频网站网址，或包含多个视频网站网址的网页地址。
+
+第3步：将网址输入或复制到app搜索栏中。
+
+第4步：点击“搜索”，等待搜索站点。如果网页中包含多个网站地址，搜索时间就比较长。
+
+## 第5步：获取站点的分享码。
+
+1. 点击站点右下角的“分享图标”。
+2. 点击“分享”。
+3. 选择“所有人”。
+4. 设置要“推广”的链接，选择“要推广”。
+5. 点击“分享”。
+6. 等分享完成后，将显示“分享码”。
+
+第6步：通网站、微信、QQ等媒体发布“无限播放APP”,并附上“分享码”。
+
+## 三、用户如何在APP中访问到我的视频网站？
+
+1. 用户下载安装“无限播放APP”。
+2. 输入您的“分享码”。
+3. 点击“搜索”。
+4. 等待搜索。可以搜索到您在7天内所有分享的站点和影片。
+5. 点击相应的“站点”图标，就可以浏览观看网站的视频了。
+6. 在播放视频的过程，就会展示相应的推广。
