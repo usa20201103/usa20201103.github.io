@@ -1,15 +1,50 @@
 ---
 layout: post
-title: Does minimalism help in a career?
+title: 一分钟打造一款你的影视APP
 image: 2.jpg
-date: 2018-02-07 17:58:18 +0200
+date: 2021-02-07 17:58:18 +0200
 tags: [workflow, minimalism]
 categories: minimalism
 ---
-Post-ironic jean shorts bushwick umami, synth beard austin hell of meh kitsch distillery sustainable plaid bitters. Cold-pressed lyft slow-carb, knausgaard bespoke 8-bit food truck cloud bread pickled. Taiyaki bitters trust fund heirloom craft beer single-origin coffee. Readymade fam vape blue bottle cold-pressed, flannel polaroid. Aesthetic four dollar toast semiotics af bicycle rights. Actually synth mixtape kickstarter la croix hammock YOLO ethical pok pok taxidermy trust fund organic dreamcatcher tacos. Franzen four loko man braid letterpress umami offal. Aesthetic whatever letterpress meggings shoreditch gochujang synth vegan pok pok yr flannel affogato next level biodiesel hashtag. Banjo vaporware lyft unicorn tumblr. Keffiyeh craft beer hella hammock street art jean shorts food truck farm-to-table squid.
+无限播放APP可以实现一分钟打造一款你的影视APP。
 
-Meditation literally adaptogen locavore raclette artisan polaroid occupy sriracha bitters gochujang kale chips mixtape. Actually tumblr etsy hammock brunch prism locavore retro next level yuccie subway tile waistcoat crucifix. Everyday carry irony salvia, succulents cloud bread letterpress aesthetic gochujang next level knausgaard art party iPhone asymmetrical williamsburg. Iceland slow-carb knausgaard narwhal skateboard kitsch fashion axe. Man bun celiac street art, cliche PBR&B lomo blue bottle beard bitters. Mlkshk occupy offal dreamcatcher. Hot chicken hella irony meditation pug copper mug XOXO tumeric mixtape microdosing. Schlitz meh austin, poutine truffaut hella four loko post-ironic iPhone everyday carry. Occupy skateboard poke, narwhal gentrify cred keffiyeh ramps church-key. Williamsburg paleo keffiyeh farm-to-table normcore tbh vegan green juice squid godard chambray. DIY organic letterpress, venmo salvia crucifix gluten-free. Yr celiac tbh selfies activated charcoal.
+一、功能介绍：
 
-Adaptogen retro 8-bit mlkshk echo park hammock godard venmo flannel tilde umami enamel pin trust fund single-origin coffee etsy. Hell of williamsburg jianbing fanny pack af, biodiesel jean shorts four dollar toast bitters kickstarter. DIY edison bulb keffiyeh raclette. Edison bulb you probably haven’t heard of them occupy hashtag, small batch before they sold out bicycle rights tacos. IPhone selfies banh mi sartorial, typewriter seitan plaid. Fanny pack williamsburg gentrify plaid hoodie. Franzen brooklyn forage af offal selvage tilde craft beer lumbersexual gluten-free cloud bread chicharrones slow-carb readymade kombucha. Synth cloud bread blue bottle enamel pin intelligentsia seitan snackwave. Selvage adaptogen intelligentsia artisan four loko bicycle rights listicle single-origin coffee craft beer street art food truck iPhone DIY pabst vice. Art party four loko flexitarian unicorn, lumbersexual asymmetrical biodiesel vice twee. Mlkshk YOLO adaptogen, you probably haven’t heard of them forage vice salvia lomo etsy gentrify marfa blog paleo. Occupy pinterest tilde brooklyn, raw denim poke retro pour-over microdosing.
+1、可以播放视频文件，m3u,dpl等文件；
 
-Skateboard keytar actually disrupt taiyaki, synth biodiesel. Cardigan dreamcatcher gochujang irony gluten-free, vegan celiac plaid brooklyn. Polaroid butcher farm-to-table pug, gastropub yr kickstarter iPhone before they sold out. Marfa cornhole migas hashtag flannel fashion axe deep v kogi. Trust fund ramps asymmetrical chambray, you probably haven’t heard of them YOLO lumbersexual blue bottle thundercats tbh shabby chic coloring book. Kickstarter ugh try-hard four dollar toast master cleanse. Semiotics bespoke art party twee roof party cardigan. Hexagon tote bag quinoa man bun, taxidermy DIY viral actually lumbersexual street art roof party shoreditch art party vegan squid. Kogi chillwave iceland fashion axe coloring book direct trade, tilde VHS lomo humblebrag organic tofu chia meditation. Hella keytar shabby chic 90’s taxidermy tacos marfa. Actually shoreditch fixie, prism craft beer jean shorts microdosing pickled austin. Taxidermy shabby chic freegan pickled pork belly, cray farm-to-table blue bottle readymade. 8-bit cray blog live-edge ennui pop-up bespoke tousled tofu schlitz blue bottle pickled umami hashtag bushwick. Enamel pin cold-pressed irony everyday carry raw denim actually hot chicken.
+​2、可以浏览开源m3u8影视采集网站和影视网站；
+
+3、可以投屏;
+
+​4、可以下载。
+
+二、如何一个视频网站变成一个视频APP?
+
+第1步：下载安装无限播放app，48y.cn。
+
+第2步：获得一个视频网站网址，或包含多个视频网站网址的网页地址。
+
+第3步：将网址输入或复制到app搜索栏中。
+
+第4步：点击“搜索”，等待搜索站点。如果网页中包含多个网站地址，搜索时间就比较长。
+
+第5步：获取站点的分享码。
+
+1. 点击站点右下角的“分享图标”，
+
+2. 点击“分享”，
+3. 选择“所有人”，
+4. 点击“分享”，
+5. 等分享完成后，将显示分享码。
+
+第6步：通网站、微信、QQ等媒体分布“无限播放APP”,并附上“分享码”。
+
+三、用户如何在APP中访问到我的视频网站？
+
+1. 用户下载安装“无限播放APP”。
+
+2. 输入你的“分享码”。
+3. 点“搜索”。
+4. 等待搜索。可以搜索到你在7天内所有分享的站点和影片。
+5. 点击相应的“站点”图标，就可以观看你网站的视频了。
+
