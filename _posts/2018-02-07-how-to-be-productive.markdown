@@ -2,7 +2,7 @@
 layout: post
 title: 如何获取浏览的网址?
 image: 9.jpg
-date: 2018-02-07 17:50:18 +0200
+date: 2021-02-07 17:50:18 +0200
 tags: [网址, 浏览]
 categories: productivity
 ---
