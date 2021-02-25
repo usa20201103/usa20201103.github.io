@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 影视网站秒变影视APP
-一分钟打造一款你的影视APP
+title: 影视网站秒变影视APP 一分钟打造影视APP
 image: 2.jpg
 date: 2021-02-07 17:58:18 +0200
 tags: [workflow, minimalism]
@@ -9,7 +8,7 @@ categories: minimalism
 ---
 无限播放APP可以实现一分钟打造一款你的影视APP。
 
-## 一、功能介绍：
+## 一、功能介绍
 
 1、可以播放视频文件，m3u,dpl等文件；
 
