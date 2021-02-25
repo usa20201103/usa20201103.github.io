@@ -17,7 +17,7 @@ categories: rest
 
 ## 第1步：点击[下载]({{site.author-down}})，或用手机浏览器软件扫描二维码
 
-![下载二维码：](/images/download%20.png "下载二维码")
+![下载二维码：](/images/download.png "下载二维码")
 
 
 ## 第2步：在打开的网页中点击“立即下载”
