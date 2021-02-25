@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 一分钟打造一款你的影视APP
+title: 影视网站秒变影视APP
+一分钟打造一款你的影视APP
 image: 2.jpg
 date: 2021-02-07 17:58:18 +0200
 tags: [workflow, minimalism]
