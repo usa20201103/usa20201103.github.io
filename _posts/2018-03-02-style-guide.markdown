@@ -18,7 +18,7 @@ categories: guide
 
 ***
 
-#### Headings by default:
+<!-- #### Headings by default:
 
 # H1 For example
 ## H2 For example
@@ -98,4 +98,4 @@ categories: guide
 
 ###### Youtube
 
-<iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe> -->
