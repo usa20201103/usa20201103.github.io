@@ -19,8 +19,8 @@ categories: productivity
 ## 搜索站点
 
 1.输入网址，可以是包含多个网址的网页地址。
-[如何获取网址](2018-02-07-how-to-be-productive.markdown)
+[如何获取网址](/_posts/2018-02-07-how-to-be-productive.markdownve.markdown)
 
-2.点击搜索。
+2.点击“搜索”。
 
 3.等待搜索，当搜索到可以访问的站点时，将自动添加。
