@@ -9,7 +9,7 @@
   "DownloadUrl": "http://www.48y.cn:89/update/wxplayer.apk",
   "ApkSize": 9689,
   "ApkMd5": "2A2AD8027E00C9A37B8E3BFB3BBB0D2B",
-  "share": 1,
+  "share": 2,
   "found": 5,
   "foundday": -5
 }
