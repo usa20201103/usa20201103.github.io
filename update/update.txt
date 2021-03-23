@@ -10,6 +10,6 @@
   "ApkSize": 9689,
   "ApkMd5": "2A2AD8027E00C9A37B8E3BFB3BBB0D2B",
   "share": 1,
-  "found": 5,
+  "found": 1,
   "foundday": -5
 }
