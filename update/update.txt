@@ -6,7 +6,7 @@
   "VersionName": "1.2.0",
   "UploadTime": "2021-03-20 17:28:41",
   "ModifyContent": "\r\n1、新增发现功能\r\n2、新增下载功能",
-  "DownloadUrl": "http://www.48y.cn:89/update/wxplayer.apk",
+  "DownloadUrl": "http://48y.cn/update/wxplayer.apk",
   "ApkSize": 9689,
   "ApkMd5": "6FD63416C22C76BAB154A0FA3C447092",
   "sharetag": A012,
