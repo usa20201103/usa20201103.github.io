@@ -26,8 +26,7 @@ categories:
 
 如何获取视频网站网址?
 
-1. 在搜索网站中去搜索“影视资源采集”。
- [开始搜索](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90%E9%87%87%E9%9B%86&fenlei=256&rsv_pq=c452fc410003a1e6&rsv_t=6af0VgneuGSKozAMfqraNKTPv6CgUfat%2BIEjKinkQGaMrsFN7tYvcIyA%2F3g&rqlang=cn&rsv_enter=1&rsv_dl=ib&rsv_n=2&rsv_sug3=1)
+1. 在搜索网站中去搜索“影视网站”。
 
 2. 打开搜索到的网页，网页可以是包含多个网址的导航网页,复制网页的地址。
 
