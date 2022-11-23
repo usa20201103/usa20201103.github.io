@@ -2,7 +2,7 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 1,
-  "VersionCode": 10,
+  "VersionCode": 11,
   "VersionName": "22.10.0",
   "UploadTime": "2022-11-20 17:28:41",
   "ModifyContent": "\r\n1、新增发现功能\r\n2、新增下载功能",
