@@ -36,6 +36,123 @@
 		</script>
 	</head>
  
+	<style type="text/css">
+		*{padding: 0;margin: 0;}
+		/*顶部标题栏*/
+		.title_box {
+			width: 100%;
+			height: 50px;
+			line-height: 50px;
+			background: #48d484;
+			font-size:20px;
+			display:flex;
+		}
 	
+		.back_page,.back_home {
+			flex:1;	
+		}
+		.back_page img,.back_home img{
+			width: 32px;
+			height: 32px;
+			margin-top:8px;
+		}
+		.back_page{
+			text-align: left;
+		}
+		.back_home{
+			text-align: right;
+			margin-right:10px;
+		}
+		.title_box p {
+			flex:3;
+			text-align: center;
+			color: #ffffff;
+		}
+		#weixin-tip {
+			display: none;
+			position: fixed;
+			left: 0;
+			top: 0;
+			background: rgba(0, 0, 0, 0.8);
+			filter: alpha(opacity=80);
+			width: 100%;
+			height: 100%;
+			z-index: 100;
+		}		
+		#weixin-tip p {
+			text-align: center;
+			margin-top: 10%;
+			padding: 0 5%;
+			position: relative;
+		}
+		#weixin-tip p img{
+			width:100%;
+		}
+		#weixin-tip .close {
+			position: absolute;
+			width:50px;
+			top: 0;
+			left: 5%;
+		}
+		.app-box{
+			width:100%;
+			height:100px;
+			padding:20px 0;
+			text-align:center;
+		}
+		.app-box .app-left{
+			width:48%;
+			float:left;
+		}
+		.app-box .app-right{
+			margin-left:2%;
+			width:48%;
+			float:left;
+		}
+		.app-box img{width:80%;}
+		.desc{
+			padding-top:50px;
+			padding-bottom:20px;
+			text-align:center;
+		}
+		.desc h1{
+			height:5rem;
+			line-height:5rem;
+			font-size:2.2rem;
+			color:#333;
+		}
+		.desc p{
+			height:3rem;
+			line-height:3rem;
+			font-size:1.5rem;
+			color:#8E8F90;
+		}	
+		</style>
+		<body>
+		<!--标题-->
+		<div class="title_box">
+			<a href="javascript:;" onClick="javascript:history.back(-1);" class="back_page"><img src="images/title-back.png"></a>
+			<p>无限播放器 APP下载</p>
+			<a href="/" class="back_home"><img src="images/title-home.png" alt="返回首页"/></a>
+		</div>
+		<div class="desc">
+		<h1>立即下载 无限播放器 手机客户端</h1>
+		<p>随时随地，想看就看。</p>
+		</div>
+		<div class="app-box">
+			<div class="app-left" id="download_android">
+				<img src="images/android-btn.png"/>
+			</div>
+			<div class="app-right" id="download_ios">
+				<img src="images/ios-btn.png"/>
+			</div>
+		</div>
+		<div id="weixin-tip">
+			<p><img src="images/live_weixin.png"/>
+			<img id="close"  title="关闭" class="close" src="images/close.png"/>
+			</p>
+		</div>
+		
+		</body>
  
 </html>
