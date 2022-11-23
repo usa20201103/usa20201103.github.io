@@ -69,35 +69,20 @@
 	</style>
 	
 	<body>
-		<div class="app">
+		<div class="c-sidebar-author">
 			<div class="bg"><img src="images/wxopen.png" alt=""></div>
-			<h2>内容</h2>
+			<div class="c-author__cover">
+			  <a href="{{site.baseurl}}/">
+				<img src="{{site.baseurl}}/images/{% if site.author-image %}{{site.author-image}}{% endif %}" alt="{{site.author-name}}">
+			  </a>
+			</div>
+			<div class="c-author__info">
+			  <div class="c-author__name">{{site.author-name}}</div>
+			  <span class="c-author__job">{{site.author-job}}</span>
+			</div>
+			
+			
 		</div>
-		<script>
-			window.onload = function() {
-				var fontSize = $(window).width() / 18.75; //屏幕的宽
-				$("html").css("font-size", fontSize + "px");
-				if (IsWeixinOrAlipay() == 13) {
-						$(".bg").css('display', 'block')
-					} else {
-						console.log(IsWeixinOrAlipay())
-					}
-			}
-	
-			function IsWeixinOrAlipay() {
-				var ua = window.navigator.userAgent.toLowerCase();
-				//判断是不是微信
-				if (ua.match(/MicroMessenger/i) == 'micromessenger') {
-					return 13;
-				}
-				//判断是不是支付宝
-				if (ua.match(/AlipayClient/i) == 'alipayclient') {
-					return 12;
-				}
-				//哪个都不是
-				return 0;
-			}
-		</script>
 	</body>
 	
  
