@@ -6,7 +6,7 @@
   "VersionName": "22.10.0",
   "UploadTime": "2022-11-20 17:28:41",
   "ModifyContent": "\r\n1、新增发现功能\r\n2、新增下载功能",
-  "DownloadUrl": "https://api.hanximeng.com/lanzou/?url=https://wwi.lanzoup.com/i5SlR0giz0ni&type=down",
+  "DownloadUrl": "https://api.hanximeng.com/lanzou/?url=https://wwi.lanzoup.com/iqNbd0gqm1gh&type=down",
   "ApkSize": 19254,
   "ApkMd5": "EE300D357AB58612E0AF0F3F53D95EDC",
   "sharetag": A012,
